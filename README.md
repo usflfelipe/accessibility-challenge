@@ -9,7 +9,7 @@ The page has a large banner, followed by three main sections and a sidebar. It a
 
 ## Deployed Page
 
-![Deployed Page Screenshot](/accessibility-challenge/assets/images/first.png) (/accessibility-challenge/assets/images/second.png) (/accessibility-challenge/assets/images/third.png)
+![Deployed Page Screenshot](.assets/images/first.png), (.assets/images/second.png), (.assets/images/third.png)
 
 [Deployed GitPage](https://usflfelipe.github.io/accessibility-challenge/)
 
