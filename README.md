@@ -9,13 +9,15 @@ The page has a large banner, followed by three main sections and a sidebar. It a
 
 ## Deployed Page
 
-![Deployed Page Screenshot]()
+![Deployed Page Screenshot](/accessibility-challenge/assets/images/first.png) (/accessibility-challenge/assets/images/second.png) (/accessibility-challenge/assets/images/third.png)
 
-[Deployed GitPage]()
+[Deployed GitPage](https://usflfelipe.github.io/accessibility-challenge/)
 
 ## Refactor Comments
-* 
-* Added comments to index.html and style.css to facilitate refactoring.
+* Added comments to Html and Css file to facilitate refactoring.
+* Added some accessibility elements
+* Changed the title to a more descriptive one
+* Changed some wrong headers
 
 ## Contributions
 * Horiseon web page created by UCF Boot Camp
